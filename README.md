@@ -1,1 +1,1 @@
-# git_test
+This is JFrauendorf’s first git project!
